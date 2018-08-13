@@ -36,7 +36,7 @@ class Clients extends Component {
             <div className="col-md-6">
               <h2>
                 {" "}
-                <i className="fas fa-users" /> Clients{" "}
+                <i className="fas fa-users" /> People{" "}
               </h2>
             </div>
             <div className="col-md-6">
